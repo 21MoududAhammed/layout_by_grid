@@ -1,0 +1,19 @@
+body{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    text-align: center;
+}
+header{
+    
+    background-color: lightblue;
+}
+aside{
+    background-color: tomato;
+}
+section{
+    background-color: blueviolet;
+}
+footer{
+    background-color: black;
+    color: #fff;
+}
